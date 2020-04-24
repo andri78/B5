@@ -214,3 +214,17 @@ header {
   color: green;
   font-size: 20px;
 }
+.footer-right {
+  float: right;
+  margin-right: -25px;
+}
+
+.footer-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
